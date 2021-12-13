@@ -1,0 +1,3 @@
+com\neo\drools\model\Message.class
+com\neo\drools\DdLoadTest.class
+com\neo\drools\repository\RuleRepositoryTests.class

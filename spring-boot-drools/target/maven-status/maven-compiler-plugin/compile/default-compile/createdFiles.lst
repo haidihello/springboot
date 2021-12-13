@@ -1,0 +1,6 @@
+com\neo\drools\controller\TestController.class
+com\neo\drools\config\DroolsAutoConfiguration.class
+com\neo\drools\SpringBootDroolsApplication.class
+com\neo\drools\config\DroolsAutoConfiguration$1.class
+com\neo\drools\model\Address.class
+com\neo\drools\model\fact\AddressCheckResult.class
